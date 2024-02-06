@@ -1,0 +1,15 @@
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.exe
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.deps.json
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.runtimeconfig.json
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.dll
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\bin\Debug\net7.0\PrimeiroExemplo.pdb
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.csproj.AssemblyReference.cache
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.AssemblyInfoInputs.cache
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.AssemblyInfo.cs
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.csproj.CoreCompileInputs.cache
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.dll
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\refint\PrimeiroExemplo.dll
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.pdb
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\PrimeiroExemplo.genruntimeconfig.cache
+D:\Aulas\UNIARAXÁ\1º Semestreo 2024\POO\Code\PrimeiroExemplo\obj\Debug\net7.0\ref\PrimeiroExemplo.dll
